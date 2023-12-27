@@ -1,0 +1,11 @@
+/.idea/codeStyles/codeStyleConfig.xml
+/server/node_modules/*
+/server/config.env
+/mern.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/server/package.json
+/server/package-lock.json
+/.idea/codeStyles/Project.xml
+/.idea/vcs.xml
+/server/db/certs/mongodb.pem
