@@ -12,6 +12,3 @@
 /client/node_modules/*
 /client/package.json
 /client/package-lock.json
-/client2/node_modules/*
-/client2/package.json
-/client2/package-lock.json
