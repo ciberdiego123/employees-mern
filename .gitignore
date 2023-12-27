@@ -9,3 +9,6 @@
 /.idea/codeStyles/Project.xml
 /.idea/vcs.xml
 /server/db/certs/mongodb.pem
+/client2/node_modules/
+/client2/package.json
+/client2/package-lock.json
